@@ -1,0 +1,13 @@
+{
+    "name": "MinimalPWA",
+    "short_name": "MinPWA",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/MinimalPWA.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
